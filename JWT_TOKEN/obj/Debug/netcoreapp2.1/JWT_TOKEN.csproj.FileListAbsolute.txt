@@ -1,0 +1,14 @@
+C:\Users\bapurba\source\JWT_TOKEN\bin\Debug\netcoreapp2.1\JWT_TOKEN.deps.json
+C:\Users\bapurba\source\JWT_TOKEN\bin\Debug\netcoreapp2.1\JWT_TOKEN.runtimeconfig.json
+C:\Users\bapurba\source\JWT_TOKEN\bin\Debug\netcoreapp2.1\JWT_TOKEN.runtimeconfig.dev.json
+C:\Users\bapurba\source\JWT_TOKEN\bin\Debug\netcoreapp2.1\JWT_TOKEN.dll
+C:\Users\bapurba\source\JWT_TOKEN\obj\Debug\netcoreapp2.1\JWT_TOKEN.csprojAssemblyReference.cache
+C:\Users\bapurba\source\JWT_TOKEN\obj\Debug\netcoreapp2.1\JWT_TOKEN.csproj.CoreCompileInputs.cache
+C:\Users\bapurba\source\JWT_TOKEN\obj\Debug\netcoreapp2.1\JWT_TOKEN.RazorAssemblyInfo.cache
+C:\Users\bapurba\source\JWT_TOKEN\obj\Debug\netcoreapp2.1\JWT_TOKEN.RazorAssemblyInfo.cs
+C:\Users\bapurba\source\JWT_TOKEN\obj\Debug\netcoreapp2.1\JWT_TOKEN.AssemblyInfoInputs.cache
+C:\Users\bapurba\source\JWT_TOKEN\obj\Debug\netcoreapp2.1\JWT_TOKEN.AssemblyInfo.cs
+C:\Users\bapurba\source\JWT_TOKEN\obj\Debug\netcoreapp2.1\JWT_TOKEN.RazorTargetAssemblyInfo.cache
+C:\Users\bapurba\source\JWT_TOKEN\bin\Debug\netcoreapp2.1\JWT_TOKEN.pdb
+C:\Users\bapurba\source\JWT_TOKEN\obj\Debug\netcoreapp2.1\JWT_TOKEN.dll
+C:\Users\bapurba\source\JWT_TOKEN\obj\Debug\netcoreapp2.1\JWT_TOKEN.pdb

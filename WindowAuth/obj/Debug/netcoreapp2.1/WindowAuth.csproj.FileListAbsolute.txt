@@ -1,0 +1,14 @@
+C:\Users\bapurba\source\repos\WindowAuth\bin\Debug\netcoreapp2.1\WindowAuth.deps.json
+C:\Users\bapurba\source\repos\WindowAuth\bin\Debug\netcoreapp2.1\WindowAuth.runtimeconfig.json
+C:\Users\bapurba\source\repos\WindowAuth\bin\Debug\netcoreapp2.1\WindowAuth.runtimeconfig.dev.json
+C:\Users\bapurba\source\repos\WindowAuth\bin\Debug\netcoreapp2.1\WindowAuth.dll
+C:\Users\bapurba\source\repos\WindowAuth\bin\Debug\netcoreapp2.1\WindowAuth.pdb
+C:\Users\bapurba\source\repos\WindowAuth\obj\Debug\netcoreapp2.1\WindowAuth.csprojAssemblyReference.cache
+C:\Users\bapurba\source\repos\WindowAuth\obj\Debug\netcoreapp2.1\WindowAuth.csproj.CoreCompileInputs.cache
+C:\Users\bapurba\source\repos\WindowAuth\obj\Debug\netcoreapp2.1\WindowAuth.RazorAssemblyInfo.cache
+C:\Users\bapurba\source\repos\WindowAuth\obj\Debug\netcoreapp2.1\WindowAuth.RazorAssemblyInfo.cs
+C:\Users\bapurba\source\repos\WindowAuth\obj\Debug\netcoreapp2.1\WindowAuth.AssemblyInfoInputs.cache
+C:\Users\bapurba\source\repos\WindowAuth\obj\Debug\netcoreapp2.1\WindowAuth.AssemblyInfo.cs
+C:\Users\bapurba\source\repos\WindowAuth\obj\Debug\netcoreapp2.1\WindowAuth.RazorTargetAssemblyInfo.cache
+C:\Users\bapurba\source\repos\WindowAuth\obj\Debug\netcoreapp2.1\WindowAuth.dll
+C:\Users\bapurba\source\repos\WindowAuth\obj\Debug\netcoreapp2.1\WindowAuth.pdb
